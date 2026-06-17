@@ -24,3 +24,10 @@ Al girar cada potenciometro, cambia el valor ADC leído por la ESP32. Ese valor 
 
 ```c
 duty = raw * 255 / 4095;
+```
+
+## Evidencia de monitor serial
+
+La salida completa del monitor serial se encuentra en el archivo:
+
+`Serial_Monitor_Practica2.txt`
