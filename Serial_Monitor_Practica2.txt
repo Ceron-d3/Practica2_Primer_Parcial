@@ -1,0 +1,120 @@
+I (10224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (10234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (10234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (11224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (11234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (11234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (12224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (12234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (12234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (13224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (13234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (13234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (14224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (14234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (14234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (15224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (15234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (15234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (16224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (16234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (16234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (17224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (17234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (17234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (18224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (18234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (18234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (19224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (19234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (19234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (20224) TASKS: [POT0-LED0] raw=1325 duty= 82 heap=300648 wm=1132
+I (20234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (20234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (21224) TASKS: [POT0-LED0] raw=2135 duty=132 heap=300648 wm=1132
+I (21234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (21234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (22224) TASKS: [POT0-LED0] raw=3091 duty=192 heap=300648 wm=1132
+I (22234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (22234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (23224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (23234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (23234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (24224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (24234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (24234) TASKS: [POT1-LED1] raw=   0 duty=  0 heap=300648 wm=1048
+I (25224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (25234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (25234) TASKS: [POT1-LED1] raw=1412 duty= 87 heap=300648 wm=1048
+I (26224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (26234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (26234) TASKS: [POT1-LED1] raw=2352 duty=146 heap=300648 wm=1048
+I (27224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (27234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (27234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (28224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (28234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (28234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (29224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (29234) TASKS: [POT2-LED2] raw=   0 duty=  0 heap=300648 wm=1124
+I (29234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (30224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (30234) TASKS: [POT2-LED2] raw=1535 duty= 95 heap=300648 wm=1124
+I (30234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (31224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (31234) TASKS: [POT2-LED2] raw=2218 duty=138 heap=300648 wm=1124
+I (31234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (32224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (32234) TASKS: [POT2-LED2] raw=3413 duty=212 heap=300648 wm=1124
+I (32234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (33224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (33234) TASKS: [POT2-LED2] raw=4095 duty=255 heap=300648 wm=1124
+I (33234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (34224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (34234) TASKS: [POT2-LED2] raw=4095 duty=255 heap=300648 wm=1124
+I (34234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (35224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (35234) TASKS: [POT2-LED2] raw=2285 duty=142 heap=300648 wm=1124
+I (35234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (36224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (36234) TASKS: [POT2-LED2] raw=2230 duty=138 heap=300648 wm=1124
+I (36234) TASKS: [POT1-LED1] raw=4095 duty=255 heap=300648 wm=1048
+I (37224) TASKS: [POT0-LED0] raw=4095 duty=255 heap=300648 wm=1132
+I (37234) TASKS: [POT2-LED2] raw=2232 duty=138 heap=300648 wm=1124
+I (37234) TASKS: [POT1-LED1] raw=2433 duty=151 heap=300648 wm=1048
+I (38224) TASKS: [POT0-LED0] raw=4091 duty=254 heap=300648 wm=1132
+I (38234) TASKS: [POT2-LED2] raw=2231 duty=138 heap=300648 wm=1124
+I (38234) TASKS: [POT1-LED1] raw=2435 duty=151 heap=300648 wm=1048
+I (39224) TASKS: [POT0-LED0] raw=2831 duty=176 heap=300648 wm=1132
+I (39234) TASKS: [POT2-LED2] raw=2229 duty=138 heap=300648 wm=1124
+I (39234) TASKS: [POT1-LED1] raw=2437 duty=151 heap=300648 wm=1048
+I (40224) TASKS: [POT0-LED0] raw=2830 duty=176 heap=300648 wm=1132
+I (40234) TASKS: [POT2-LED2] raw=2231 duty=138 heap=300648 wm=1124
+I (40234) TASKS: [POT1-LED1] raw=2435 duty=151 heap=300648 wm=1048
+I (41224) TASKS: [POT0-LED0] raw=2832 duty=176 heap=300648 wm=1132
+I (41234) TASKS: [POT2-LED2] raw=2231 duty=138 heap=300648 wm=1124
+I (41234) TASKS: [POT1-LED1] raw=2435 duty=151 heap=300648 wm=1048
+I (42224) TASKS: [POT0-LED0] raw=2832 duty=176 heap=300648 wm=1132
+I (42234) TASKS: [POT2-LED2] raw=2231 duty=138 heap=300648 wm=1124
+I (42234) TASKS: [POT1-LED1] raw=2435 duty=151 heap=300648 wm=1048
+I (43224) TASKS: [POT0-LED0] raw=2831 duty=176 heap=300648 wm=1132
+I (43234) TASKS: [POT2-LED2] raw=2235 duty=139 heap=300648 wm=1124
+I (43234) TASKS: [POT1-LED1] raw=2437 duty=151 heap=300648 wm=1048
+I (44224) TASKS: [POT0-LED0] raw=2832 duty=176 heap=300648 wm=1132
+I (44234) TASKS: [POT2-LED2] raw=4095 duty=255 heap=300648 wm=1124
+I (44234) TASKS: [POT1-LED1] raw=2435 duty=151 heap=300648 wm=1048
+I (45224) TASKS: [POT0-LED0] raw=2810 duty=174 heap=300648 wm=1132
+I (45234) TASKS: [POT2-LED2] raw=4095 duty=255 heap=300648 wm=1124
+I (45234) TASKS: [POT1-LED1] raw=2433 duty=151 heap=300648 wm=1048
+I (46224) TASKS: [POT0-LED0] raw=1054 duty= 65 heap=300648 wm=1132
+I (46234) TASKS: [POT2-LED2] raw=4095 duty=255 heap=300648 wm=1124
+I (46234) TASKS: [POT1-LED1] raw=2435 duty=151 heap=300648 wm=1048
+I (47224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (47234) TASKS: [POT2-LED2] raw=4095 duty=255 heap=300648 wm=1124
+I (47234) TASKS: [POT1-LED1] raw=2433 duty=151 heap=300648 wm=1048
+I (48224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (48234) TASKS: [POT2-LED2] raw=4095 duty=255 heap=300648 wm=1124
+I (48234) TASKS: [POT1-LED1] raw=2437 duty=151 heap=300648 wm=1048
+I (49224) TASKS: [POT0-LED0] raw=   0 duty=  0 heap=300648 wm=1132
+I (49234) TASKS: [POT2-LED2] raw=4095 duty=255 heap=300648 wm=1124
+I (49234) TASKS: [POT1-LED1] raw=2439 duty=151 heap=300648 wm=1048
