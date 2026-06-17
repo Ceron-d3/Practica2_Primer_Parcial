@@ -1,8 +1,4 @@
 /**
- * @file leds.c
- * @brief Inicializacion y control PWM de los LEDs mediante LEDC.
- */
-/**
  * @file main.c
  * @brief Practica 2
  *
